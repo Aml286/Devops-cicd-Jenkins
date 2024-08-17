@@ -1,6 +1,6 @@
 # vprofile Project CI/CD Pipelines
 
-This repository contains the Continuous Integration and Continuous Deployment (CI/CD) pipelines for the vprofile project. The pipelines automate the process of building, testing, analyzing, and deploying the application to both staging and production environments.
+This repository contains the Continuous Integration and Continuous Deployment (CI/CD) pipelines for the java web application project. The pipelines automate the process of building, testing, analyzing, and deploying the application to both staging and production environments.
 
 ## Pipelines Overview
 
